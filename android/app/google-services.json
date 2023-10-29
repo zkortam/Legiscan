@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "798395824539",
+    "project_id": "legiscan-3018b",
+    "storage_bucket": "legiscan-3018b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:798395824539:android:a9c8038a1b9028815b493e",
+        "android_client_info": {
+          "package_name": "com.LegiScan.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "798395824539-npscev1viiqnjkg4j4q2o7oml4c0t81p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.LegiScan.app",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "798395824539-nfv1sfvdg51peh9dog56ovso9u07p4km.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtXVmKabk-NrRYVbp7ddVWvkH0ToRi6Q8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "798395824539-nfv1sfvdg51peh9dog56ovso9u07p4km.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "798395824539-lp56ed4sr10j5v05a6ptekg0vbo2fo0c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.legiscan.app"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:798395824539:android:a0562a12a88d6cc45b493e",
+        "android_client_info": {
+          "package_name": "com.legiscan.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "798395824539-gs7atst7r2rifb3qkrs0903dk7o86hcm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.legiscan.app",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "798395824539-nfv1sfvdg51peh9dog56ovso9u07p4km.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtXVmKabk-NrRYVbp7ddVWvkH0ToRi6Q8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "798395824539-nfv1sfvdg51peh9dog56ovso9u07p4km.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "798395824539-lp56ed4sr10j5v05a6ptekg0vbo2fo0c.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.legiscan.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
